@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-cmap$+ara@#wfb=84l9kqsvm*$$wxyq8m385z4p_k@wgtypq=^
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['.vercel.app']
 
 
 # Application definition
